@@ -1,0 +1,39 @@
+Points not ordered correctly
+Triangulation failed: Additional vertices were inserted.
+Triangulation failed: Additional vertices were inserted.
+Points not ordered correctly
+Triangulation failed: Additional vertices were inserted.
+Triangulation failed: Additional vertices were inserted.
+Points not ordered correctly
+Triangulation failed: Additional vertices were inserted.
+Triangulation failed: Additional vertices were inserted.
+Points not ordered correctly
+Triangulation failed: Additional vertices were inserted.
+Triangulation failed: Additional vertices were inserted.
+Triangulation failed: Additional vertices were inserted.
+Triangulation failed: Additional vertices were inserted.
+Triangulation failed: Additional vertices were inserted.
+Triangulation failed: Additional vertices were inserted.
+Points not ordered correctly
+Points not ordered correctly
+Triangulation failed: Additional vertices were inserted.
+Triangulation failed: Additional vertices were inserted.
+Triangulation failed: Additional vertices were inserted.
+Points not ordered correctly
+Triangulation failed: Additional vertices were inserted.
+Points not ordered correctly
+Points not ordered correctly
+Triangulation failed: Additional vertices were inserted.
+Points not ordered correctly
+Points not ordered correctly
+Points not ordered correctly
+Points not ordered correctly
+Points not ordered correctly
+Points not ordered correctly
+Points not ordered correctly
+Points not ordered correctly
+Points not ordered correctly
+Points not ordered correctly
+Points not ordered correctly
+Triangulation failed: Additional vertices were inserted.
+Triangulation failed: Additional vertices were inserted.
