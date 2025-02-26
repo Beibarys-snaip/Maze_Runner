@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 7a7b02219c97cfa48b5182adc1238a05
+AssetOrigin:
+  serializedVersion: 1
+  productId: 266227
+  packageName: Free Fire VFX
+  packageVersion: 1.0.2023
+  assetPath: Assets/Vefects/Free Fire VFX/Shaders/SH_Vefects_VFX_SRP_Fire_Flames_01.shader
+  uploadId: 714471
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Noise_01_Texture: {fileID: 2800000, guid: 5301f8ff7e2edea4c86dfaf8247a1ec5, type: 3}
+  - _Noise_02_Texture: {fileID: 2800000, guid: 78f9606de07f24a4f9ff540cc0087f36, type: 3}
+  - _ColorGradientMask: {fileID: 2800000, guid: b1f212ebadb408243930c2abe294793c, type: 3}
+  - _DistortionMaskTexture: {fileID: 2800000, guid: 48dc7bc18268b924c8348d314decc5da, type: 3}
+  - _Mask_Texture: {fileID: 2800000, guid: 1c39f37a030014c4abc1e00881d7f68f, type: 3}
+  - _TextureSample2: {fileID: 2800000, guid: b9f0879f436c46149a1181e72f0b7848, type: 3}
+  - _NoiseDistortion_Texture: {instanceID: 0}
+  - _texcoord: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
